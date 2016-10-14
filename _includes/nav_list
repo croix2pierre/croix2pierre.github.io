@@ -1,6 +1,5 @@
 {% include base_path %}
 {% assign navigation = site.data.navigation[include.nav] %}
-
 <nav class="nav__list">
   {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
   <ul>
@@ -13,7 +12,6 @@
           {% else %}
             {% assign domain = base_path %}
           {% endif %}
-
           <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
@@ -35,7 +33,6 @@
             {% else %}
               {% assign active = "" %}
             {% endif %}
-
             <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
         </ul>

@@ -1,14 +1,31 @@
 ---
-layout: archive
-author_profile: true
+title: ""
+layout: splash
+author_profile: false
+permalink: /
+header:
+  overlay_image: Bandeau_Riverains.jpg
 ---
 
 {% include base_path %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3>Les riverains de la digue croix de pierre</h3>
 
-{% for post in paginator.posts %}
+<p>Les habitants de la cité sont attachés à l'évolution harmonieuse de leur quartier.</p>
+
+<p>Malheureusement, cet été, pendant 3 mois et 2 jours, du 5 juin au 7 septembre, 7j/7j, jusqu'à 2 heures
+du matin en semaine et 3 heures le samedi, les riverains ont subi des nuisances sonores, olfactives
+et lumineuses issues de l'exploitation temporaire d'un établissement de type bar-restaurant (pas de publicité ici)
+situé sur l'île du Ramier sur le site de l'ancienne usine hydro-électrique de la poudrerie au bout de l'île des moulins.</p>
+
+<p>Face à cette situation, un collectif de riverains s'est formé et ce site sur Internet vous présente
+plusieurs aspects de cette mobilisation sous la forme d'un <a href="/journal.html">journal</a>, d'un
+<a href="/temoignage.html">témoignage</a> et de <a href="/documents.html">documents</a>.</p>
+
+<p>Ce site est en cours d'enrichissement.</p>
+
+<h3>Voici les trois derniers articles de notre <a href="/journal.html">journal</a></h3>
+
+{% for post in site.posts limit:3 %}
   {% include archive-single.html %}
 {% endfor %}
-
-{% include paginator.html %}

@@ -1,11 +1,9 @@
 {% include base_path %}
-
 {% if include.id %}
   {% assign gallery = page.[include.id] %}
 {% else %}
   {% assign gallery = page.gallery %}
 {% endif %}
-
 {% if gallery.size == 2 %}
   {% assign gallery_layout = 'half' %}
 {% elsif gallery.size >= 3 %}
@@ -13,7 +11,6 @@
 {% else %}
   {% assign gallery_layout = '' %}
 {% endif %}
-
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% if img.url %}
