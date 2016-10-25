@@ -57,10 +57,17 @@ Elle passe la parole à : [Franck Biasotto, maire de quartier]({{site.url}}/Erre
 ### Les réponses de l'opposition
 
 Il n'y a pas eu de commission sécurité, puisque la forme juridique était une exploitation
-temporaire. Pourquoi traite de manière différente l'écluse et l'usine au niveau des contraintes.
-Rappel que le comité de quartier a demandé à sursoir à la création de Stecal. Et qu'au lieu
-de parler de récupération, en l'absence totale d'écoute des élus, les riverains se sont tournés vers
-d'autres élus qui eux les ont écoutés.
+temporaire. Pourquoi traiter de manière différente la Stecal maison éclusière et l'usine hydro-électriqueau
+au niveau des contraintes d'exploitation et de protection des populations.
+
+Rappel que le comité de quartier a demandé à sursoir à la création de Stecal.
+
+Rappel du groupe EELV, les élus attendent toujours les documents datés de la part de la mairie
+portant sur l'ouverture temporaire autre que la simple autorisation de sécurité.
+
+Au lieu de parler de récupération, en l'absence totale d'écoute des élus, les riverains se sont
+tournés vers d'autres élus qui eux les ont écoutés.
+
 
 ### Les promesses n'engagent que ceux qui les écoutent
 
