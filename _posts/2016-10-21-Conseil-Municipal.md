@@ -52,7 +52,7 @@ La fréquentation et le succès me réjouit parce que c'est un lieu magique.
 Notre objectif est de faire en sorte qu'il y ai un restaurant. Tous les restaurants
 le long de la Garonne ne génère pas ce type de réaction des habitants.
 
-Elle passe la parole à : [Franck Biasotto, maire de quartier]({{site.url}}/ErreurCasting/)
+Elle passe la parole à : [Franck Biasotto, maire de quartier]({{site.url}}/Ecoute/)
 
 ### Les réponses de l'opposition
 
