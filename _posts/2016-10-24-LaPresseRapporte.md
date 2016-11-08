@@ -22,3 +22,10 @@ Nous aurions tellement aimé ne pas faire être cités dans le [mépris des rive
 et aussi ne pas être cités comme [étant des riverains qui ont monté le ton](http://actu.cotetoulouse.fr/briancon-ps-relation-jean-luc-moudenc-toulousains-entravee_46349/) lors de la réunion publique du 6 septembre.
 
 Mais comment faire, lorsque les représentants élus ne nous entendent pas et ne nous écoutent pas ?
+
+### Un autre article de côté Toulouse
+
+[Un article](http://actu.cotetoulouse.fr/bar-la-centrale-ile-ramier-rouvrir-riverains-furieux_48590/) assez équilibré des différents avis sur le vote de la
+mairie de Toulouse enterinant la création de Stecal dans ce secteur.
+
+Le rappel historique des évènements passés est complet.
