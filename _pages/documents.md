@@ -29,7 +29,11 @@ destruction des sites classés de l'île du Ramier.*
 
 [Plan de situation dans le PPRI]({{site.url}}/assets/20160609_PPRI_Localisation_Projet.jpg).
 
-Configuration des lieux.
+Novembre 2016, la création de l'association dont voici les [statuts]({{site.url}}/assets/20161108_Statuts.pdf) qui ont été déposés.
+
+Novembre 2016, le [recours gracieux]({{site.url}}/assets/20161123_RecoursGracieux.pdf).
+
+Voici la [configuration des lieux]({{site.url}}/assets/1b_SituationGeographique.pdf).
 
 # Les documents reçus
 
@@ -42,3 +46,6 @@ publique du 28 juillet 2016.
 
 [Lettre du Maire de Toulouse]({{site.url}}/assets/Lettre_Maire.pdf), à noter que cette lettre a été faite
 après la fermeture de l'établissement.
+
+La [réponse à notre recours gracieux]({{site.url}}/assets/20161215_TM_Reponse_Recours.pdf) de la part de Toulouse
+Métropole, avec un petit rappel sur ce type de procédure.
