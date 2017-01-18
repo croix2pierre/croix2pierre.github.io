@@ -49,3 +49,5 @@ après la fermeture de l'établissement.
 
 La [réponse à notre recours gracieux]({{site.url}}/assets/20161215_TM_Reponse_Recours.pdf) de la part de Toulouse
 Métropole, avec un petit rappel sur ce type de procédure.
+
+Le [rejet du recours]({{site.url}}/assets/20170112_TM_RejetRecours.pdf) gracieux de la part de Toulouse Métropole.
